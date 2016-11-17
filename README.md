@@ -21,5 +21,5 @@ Javascript: The Tricky Parts
 
 ### Resources
 - [JS Online Playground](https://repl.it/languages/javascript)
-- [Node Online Playground](https://repl.it/languages/nodejs)
 - [JavaScript Design Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JS MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
