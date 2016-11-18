@@ -23,3 +23,4 @@ Javascript: The Tricky Parts
 - [JS Online Playground](https://repl.it/languages/javascript)
 - [JavaScript Design Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JS MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
