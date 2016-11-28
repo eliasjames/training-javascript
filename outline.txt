@@ -1,0 +1,62 @@
+Javascript: Deceptively simple
+- Goals
+  - Read unfamiliar JS syntax idioms (falsy values, IIFEs)
+  - Use JS's async / functional-oriented paradigm
+  - Describe the difference between function
+    - declaration
+    - expression
+    - arguments
+    - context
+    - scope
+  - Avoid common memory leaks 
+- Legacy / Backstory
+  - Prototypal and Functional orientations
+  - Controversial design decisions 
+  - Version history and what JS versions mean in practice
+- Syntax basics
+  - Primitives and their literals
+  - Variables 
+    - Declaration and assignment
+    - The "var" keyword
+  - Common operators
+  - Functions
+    - Declaration and execution
+    - The "return" keyword
+  - Objects
+    - Literal syntax
+      - Properties 
+        - keys
+        - values
+      - Methods
+      - JSON
+    - Property accessor methods
+    - Relationship to primitives
+    - Coercion/Boxing
+    - All non-primitives are objects
+      - Functions
+      - Arrays
+      - Host objects
+    - The "new" keyword
+- Controversial design ("gotchas")
+  - Automatic Semicolon Insertion (ASI)
+  - Overloading the "+" operator
+  - Loose and strict equality
+  - Falsy values
+- Prototypal inheritance
+  - Prototype chain
+  - Functions as constructors
+  - Property lookup ("shadowing")
+  - hasOwnProperty
+  - How "new" works
+- Function declaration versus execution
+  - aka "hoisting"
+- Function context
+  - The "this" keyword
+  - Changing "this" via call, apply, bind
+- Function scope
+  - Nested declaration variable shadowing
+  - Returning a reference to a higher-scope var ("closure")
+  - Using a closure to implement namespace, private methods
+- JS patterns
+  - Callbacks
+  - Async operations using setTimeout
